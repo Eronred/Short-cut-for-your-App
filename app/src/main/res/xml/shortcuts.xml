@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="home"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:shortcutShortLabel="@string/home"
+        android:shortcutLongLabel="@string/home">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.shortcutfprapp"
+            android:targetClass="com.shortcutfprapp.HomePage" />
+
+        //Eronred
+</shortcut>
+    <shortcut
+        android:shortcutId="profile"
+        android:enabled="true"
+        android:icon="@drawable/profile_icon"
+        android:shortcutShortLabel="@string/profile"
+        android:shortcutLongLabel="@string/profile">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.shortcutfprapp"
+            android:targetClass="com.shortcutfprapp.profile" />
+    </shortcut>
+</shortcuts>
