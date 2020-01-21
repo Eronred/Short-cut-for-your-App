@@ -29,7 +29,7 @@
 </manifest>
 ```
 
-### **> then write these code ;**
+
 
 > <meta-data android:name="android.app.shortcuts"
 >                 android:resource="@xml/shortcuts" />
@@ -39,7 +39,7 @@ then create your xml as named here ""android:resource="@xml/shortcuts""".
 now time for xml.
 
 ""keep it mind that this xml not will be in layout file.
-
+### **>Write these code ;**
 ```
 > <?xml version="1.0" encoding="utf-8"?>
 > <shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
