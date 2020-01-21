@@ -1,4 +1,4 @@
-**Open metadata tag between activity tag,** 
+**Open meta-data tag between activity tag,** 
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
