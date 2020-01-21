@@ -64,7 +64,7 @@ now time for xml.
 Thats it! you will see this result; 
 ![google-app-shortcuts-4-840x560](https://user-images.githubusercontent.com/43992376/72807253-08cadf80-3c68-11ea-9a85-6cbba1fea3f2.jpg)
 
-Do not forget star, fork and follow :) 
+Do not forget to give star, fork and follow :) 
 
 Follow me on [instagram ](https://www.instagram.com/eronred/)
 for cooperation ; 
